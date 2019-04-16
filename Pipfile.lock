@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "71bcbbb12c8de8f330f4db3d94c46223d65e26887195dd092fec729914c753ee"
+            "sha256": "f8c09ad43f2282937f155e566f853e6cf4036333b93ecffa91f053cf199f2646"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -23,6 +23,14 @@
             ],
             "index": "pypi",
             "version": "==2.2"
+        },
+        "gunicorn": {
+            "hashes": [
+                "sha256:aa8e0b40b4157b36a5df5e599f45c9c76d6af43845ba3b3b0efe2c70473c2471",
+                "sha256:fa2662097c66f920f53f70621c6c58ca4a3c4d3434205e608e121b5b3b71f4f3"
+            ],
+            "index": "pypi",
+            "version": "==19.9.0"
         },
         "pytz": {
             "hashes": [
@@ -75,6 +83,14 @@
             ],
             "index": "pypi",
             "version": "==2.0.15"
+        },
+        "colorama": {
+            "hashes": [
+                "sha256:05eed71e2e327246ad6b38c540c4a3117230b19679b875190486ddd2d721422d",
+                "sha256:f8ac84de7840f5b9c4e3347b3c1eaa50f7e49c2b07596221daec5edaabbd7c48"
+            ],
+            "markers": "sys_platform == 'win32'",
+            "version": "==0.4.1"
         },
         "coverage": {
             "hashes": [
