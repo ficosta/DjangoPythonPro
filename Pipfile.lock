@@ -18,11 +18,10 @@
     "default": {
         "django": {
             "hashes": [
-                "sha256:7c3543e4fb070d14e10926189a7fcf42ba919263b7473dceaefce34d54e8a119",
-                "sha256:a2814bffd1f007805b19194eb0b9a331933b82bd5da1c3ba3d7b7ba16e06dc4b"
+                "sha256:0a1d195ad65c52bf275b8277b3d49680bd1137a5f55039a806f25f6b9752ce3d",
+                "sha256:18dd3145ddbd04bf189ff79b9954d08fda5171ea7b57bf705789fea766a07d50"
             ],
-            "index": "pypi",
-            "version": "==2.2"
+            "version": "==3.2.2"
         },
         "gunicorn": {
             "hashes": [
